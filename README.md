@@ -110,16 +110,73 @@ Mobile travel application for discovering and booking travel experiences.
 
 ---
 
-## 🌟 Interests & Passion
+## 🌟 Skills & Expertise
+
+<div align="center">
+
+| Category | Skills |
+|----------|--------|
+| **Web Development** | Full-stack web development, Scalable system architecture, User experience & interface design |
+| **AI & Machine Learning** | AI model integration, Prompt engineering, LLM applications, Intelligent automation |
+| **Bot Development** | Automation bots, Chat bots, Discord bots, Telegram bots, Process automation |
+| **Competitive Programming** | Algorithm optimization, Problem-solving, Data structures, Code competitions |
+| **Development Practices** | Clean code & best practices, Design patterns, Testing & QA, Code review |
+| **Backend Skills** | RESTful APIs, Database design, Microservices, Authentication & security |
+| **DevOps & Tools** | Git workflows, Docker containerization, CI/CD pipelines, Database management |
+| **Soft Skills** | Problem-solving & optimization, Mentoring & knowledge sharing, Team collaboration |
+
+</div>
+
+### 🎯 Specialized Areas
 
 ```
-✓ Full-stack web development
-✓ Scalable system architecture
-✓ User experience & interface design
-✓ Clean code & best practices
-✓ Problem-solving & optimization
-✓ Mentoring & knowledge sharing
+🤖 AI & Machine Learning
+   ✓ Custom AI integrations
+   ✓ LLM fine-tuning & prompt optimization
+   ✓ Intelligent automation solutions
+   ✓ Computer vision applications
+
+🦾 Bot Development & Automation
+   ✓ Discord bot creation
+   ✓ Telegram bot development
+   ✓ Web scraping automation
+   ✓ Workflow automation
+   ✓ API integration bots
+
+🏆 Competitive Programming
+   ✓ Algorithm optimization
+   ✓ Complex problem-solving
+   ✓ Data structure implementation
+   ✓ Code challenge participation
+
+💼 Enterprise Solutions
+   ✓ HRIS systems
+   ✓ E-commerce platforms
+   ✓ Document management
+   ✓ Scalable architectures
 ```
+
+---
+
+## ☕ Support My Work
+
+If you find my projects helpful or enjoy my work, consider supporting me! Your support helps me create more amazing projects and content.
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/your-profile)
+
+### 💰 Crypto Donations
+
+**Bitcoin**: `1A1z7agoat2WKQ4heHz8u5CbWQG5BgyreC`
+
+**Ethereum**: `0x1234567890123456789012345678901234567890`
+
+### 🌐 Other Methods
+
+- **PayPal**: [your-email@example.com](https://paypal.me/your-paypal-id)
+- **GCash**: `09XXXXXXXXX`
+- **Bank Transfer**: Contact me for details
 
 ---
 
@@ -146,8 +203,3 @@ Mobile travel application for discovering and booking travel experiences.
 **Happy Coding!** ✨
 
 </div>
-
-
-Donation 
-Solana Wallet
-NHbFkZsppD5BzzFT5kDCyfHxkK2c8RqhWYFt
