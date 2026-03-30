@@ -174,8 +174,7 @@ If you find my projects helpful or enjoy my work, consider supporting me! Your s
 
 ### 🌐 Other Methods
 
-- **PayPal**: [your-email@example.com](https://paypal.me/your-paypal-id)
-- **GCash**: `09XXXXXXXXX`
+- **PayPal**: [tianreformis.work@gmail.com](https://paypal.me/tianreformis)
 - **Bank Transfer**: Contact me for details
 
 ---
@@ -186,7 +185,7 @@ If you find my projects helpful or enjoy my work, consider supporting me! Your s
 
 [LinkedIn](https://id.linkedin.com/in/kristian-reformis-1148291b2) • 
 [GitHub](https://github.com/tianreformis) • 
-[Email](mailto:your.email@example.com)
+[Email](mailto:tianreformis.work@gmail.com)
 
 **Feel free to explore my repositories and reach out for collaborations!** 🤝
 
