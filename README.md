@@ -219,9 +219,13 @@ If you find my projects helpful or enjoy my work, consider supporting me! Your s
 
 ### 💰 Crypto Donations
 
-**Bitcoin**: `1A1z7agoat2WKQ4heHz8u5CbWQG5BgyreC`
+**Bitcoin**: `bc1q2x8mel8k5kxl3lzhc2wzakd87ts7f059t89ged`
 
-**Ethereum**: `0x1234567890123456789012345678901234567890`
+**Ethereum**: `0xC6e59D66b5E7F23AD16a0202611f99be9E5EcecB`
+
+**Solana**: `932FhjL51HpRb3N5yMDqqwenDvwz8De6an8x5QYYWEsy`
+
+**BNB** : `0xC6e59D66b5E7F23AD16a0202611f99be9E5EcecB`
 
 ### 🌐 Other Methods
 
