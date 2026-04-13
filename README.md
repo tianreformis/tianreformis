@@ -110,6 +110,46 @@ Mobile travel application for discovering and booking travel experiences.
 
 ---
 
+## 🤖 AI Coding Tools & Agents
+
+<div align="center">
+
+### AI-Powered IDEs
+| Tool | Pricing | Description |
+|------|---------|-------------|
+| **Cursor** | $16/mo | Market leader, AI-native IDE built on VS Code |
+| **Windsurf** | Free | By Codeium, Cascade AI with flow state |
+| **Zed** | Free | Rust-based, sub-50ms latency, open source |
+| **VS Code + Copilot** | $10/mo | Microsoft, deep GitHub integration |
+
+### AI CLI Agents
+| Tool | Pricing | Description |
+|------|---------|-------------|
+| **Claude Code** | $17/mo | Anthropic, terminal-based, 200K context |
+| **OpenCode** | Free | Open source, 131K stars, multi-model support |
+| **Aider** | Free | Git-first, any LLM, open source |
+| **Goose** | Free | Block's agent, enterprise-ready |
+| **Gemini CLI** | Free | Google's CLI agent, 1M context free |
+| **Codex CLI** | $20/mo | OpenAI's terminal coding agent |
+
+### Autonomous AI Agents
+| Tool | Pricing | Description |
+|------|---------|-------------|
+| **Devin** | $20/mo | Cognition Labs, fully autonomous coding |
+| **OpenDevin** | Free | Open source, self-hosted agent |
+| **Cody** | Free | Sourcegraph's AI coding assistant |
+
+### Local & Privacy-Focused
+| Tool | Pricing | Description |
+|------|---------|-------------|
+| **Ollama** | Free | Local LLM models, privacy-first |
+| **GPT4All** | Free | Local AI, no cloud required |
+| **Tabnine** | Free/Team | Code completion, local model option |
+
+</div>
+
+---
+
 ## 🌟 Skills & Expertise
 
 <div align="center">
@@ -117,7 +157,7 @@ Mobile travel application for discovering and booking travel experiences.
 | Category | Skills |
 |----------|--------|
 | **Web Development** | Full-stack web development, Scalable system architecture, User experience & interface design |
-| **AI & Machine Learning** | AI model integration, Prompt engineering, LLM applications, Intelligent automation |
+| **AI & Machine Learning** | AI model integration, Prompt engineering, LLM applications, Intelligent automation, AI agent workflows |
 | **Bot Development** | Automation bots, Chat bots, Discord bots, Telegram bots, Process automation |
 | **Competitive Programming** | Algorithm optimization, Problem-solving, Data structures, Code competitions |
 | **Development Practices** | Clean code & best practices, Design patterns, Testing & QA, Code review |
@@ -131,7 +171,8 @@ Mobile travel application for discovering and booking travel experiences.
 
 ```
 🤖 AI & Machine Learning
-   ✓ Custom AI integrations
+   ✓ Custom AI integrations (Claude, GPT, Gemini)
+   ✓ AI agent workflows (Claude Code, OpenCode, Goose)
    ✓ LLM fine-tuning & prompt optimization
    ✓ Intelligent automation solutions
    ✓ Computer vision applications
