@@ -229,7 +229,7 @@ If you find my projects helpful or enjoy my work, consider supporting me! Your s
 
 ### 🌐 Other Methods
 
-- **PayPal**: [tianreformis.work@gmail.com](https://paypal.me/tianreformis)
+- **PayPal**: [tianreformis@gmail.com](https://paypal.me/tianreformis)
 - **Bank Transfer**: Contact me for details
 
 ---
