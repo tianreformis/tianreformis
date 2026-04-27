@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Full Stack Developer | Web & Mobile Engineer | Tech Enthusiast**
+**Full Stack Developer | Web & Mobile Engineer | AI Engineering | Linux System DevOPS**
 
 [![GitHub followers](https://img.shields.io/github/followers/tianreformis?style=social)](https://github.com/tianreformis)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://id.linkedin.com/in/kristian-reformis-1148291b2)
